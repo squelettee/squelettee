@@ -1,5 +1,7 @@
 Hi there, I'm @squelettee. 💀
-I have a keen interest in blockchain development
+
+I have a keen interest in blockchain development.
+
 0 talent, 100% effort. 🦴
 
 <!---
