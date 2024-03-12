@@ -1,6 +1,5 @@
-Hi, I’m @squelettee.
-I’m interested in development.
-I’m currently learning.
+Hi there, I'm @squelettee. 💀
+I have a keen interest in blockchain development and constantly strive to improve, adopting a mindset of 0 talent, 100% effort. 🦴
 
 <!---
 squelettee/squelettee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
